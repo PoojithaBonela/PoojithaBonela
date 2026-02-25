@@ -11,26 +11,36 @@ Computer Science undergraduate at Woxsen University with strong fundamentals in 
 
 Passionate about building scalable full-stack applications and AI-driven systems with a focus on clean architecture, performance, and security.
 
-Solved 1000+ problems on CodeChef and 140+ problems on LeetCode.
+Solved 1000+ problems on CodeChef and 170+ problems on LeetCode.
 
 ---
 
 ## Tech Stack
 
 ### LANGUAGES
-Python • JavaScript • Java  
+<span style="color:#3776AB"><b>Python</b></span> • 
+<span style="color:#F7DF1E"><b>JavaScript</b></span> • 
+<span style="color:#ED8B00"><b>Java</b></span>
 
 ### WEB TECHNOLOGIES
-HTML5 • CSS3 • JavaScript (ES6+)  
-React.js • Node.js • Express.js  
-REST APIs  
+<span style="color:#E34F26"><b>HTML5</b></span> • 
+<span style="color:#1572B6"><b>CSS3</b></span> • 
+<span style="color:#F7DF1E"><b>JavaScript (ES6+)</b></span>  
+<span style="color:#61DAFB"><b>React.js</b></span> • 
+<span style="color:#339933"><b>Node.js</b></span> • 
+<span style="color:#000000"><b>Express.js</b></span>  
+<span style="color:#02569B"><b>REST APIs</b></span>
 
 ### TOOLS
-Git • GitHub • Figma • VS Code  
-Docker  
+<span style="color:#F05032"><b>Git</b></span> • 
+<span style="color:#181717"><b>GitHub</b></span> • 
+<span style="color:#F24E1E"><b>Figma</b></span> • 
+<span style="color:#007ACC"><b>VS Code</b></span>  
+<span style="color:#2496ED"><b>Docker</b></span>
 
 ### DATABASES
-MySQL • MongoDB  
+<span style="color:#4479A1"><b>MySQL</b></span> • 
+<span style="color:#47A248"><b>MongoDB</b></span>
 
 ---
 
