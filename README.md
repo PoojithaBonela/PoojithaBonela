@@ -14,33 +14,45 @@ Passionate about building scalable full-stack applications and AI-driven systems
 Solved 1000+ problems on CodeChef and 170+ problems on LeetCode.
 
 ---
+## 🚀 Tech Stack
 
-## Tech Stack
+### Languages
 
-### LANGUAGES
-<span style="color:#3776AB"><b>Python</b></span> • 
-<span style="color:#F7DF1E"><b>JavaScript</b></span> • 
-<span style="color:#ED8B00"><b>Java</b></span>
+![Python](https://img.shields.io/badge/Python-1F6FEB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FACC15?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-DC2626?style=for-the-badge&logo=java&logoColor=white)
 
-### WEB TECHNOLOGIES
-<span style="color:#E34F26"><b>HTML5</b></span> • 
-<span style="color:#1572B6"><b>CSS3</b></span> • 
-<span style="color:#F7DF1E"><b>JavaScript (ES6+)</b></span>  
-<span style="color:#61DAFB"><b>React.js</b></span> • 
-<span style="color:#339933"><b>Node.js</b></span> • 
-<span style="color:#000000"><b>Express.js</b></span>  
-<span style="color:#02569B"><b>REST APIs</b></span>
+---
 
-### TOOLS
-<span style="color:#F05032"><b>Git</b></span> • 
-<span style="color:#181717"><b>GitHub</b></span> • 
-<span style="color:#F24E1E"><b>Figma</b></span> • 
-<span style="color:#007ACC"><b>VS Code</b></span>  
-<span style="color:#2496ED"><b>Docker</b></span>
+### Web Technologies
 
-### DATABASES
-<span style="color:#4479A1"><b>MySQL</b></span> • 
-<span style="color:#47A248"><b>MongoDB</b></span>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript ES6+](https://img.shields.io/badge/JavaScript_ES6+-FACC15?style=for-the-badge&logo=javascript&logoColor=black)
+![React.js](https://img.shields.io/badge/React-0EA5E9?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-16A34A?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-111827?style=for-the-badge&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2563EB?style=for-the-badge)
+
+---
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-E11D48?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F97316?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-2563EB?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0284C7?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-0891B2?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-15803D?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
 
 ---
 
