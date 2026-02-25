@@ -67,6 +67,10 @@ CGPA: 8.84
 ---
 
 ## Connect With Me
+---
 
-LinkedIn: https://www.linkedin.com/in/poojitha-bonela/  
-Email: poojitha.bonela_2027@woxsen.edu.in
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Poojitha_Bonela-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/poojitha-bonela/)
+
+[![Email](https://img.shields.io/badge/Email-poojitha.bonela_2027@woxsen.edu.in-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:poojitha.bonela_2027@woxsen.edu.in)
