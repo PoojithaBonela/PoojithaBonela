@@ -1,7 +1,7 @@
 # Poojitha Bonela
 
 B.Tech Computer Science (Cyber Security, IoT & Blockchain)  
-Full Stack Developer | AI Systems Enthusiast  
+Aspiring Software Developer
 
 ---
 
